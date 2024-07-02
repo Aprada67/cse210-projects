@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Assignment a1 = new Assignment("Alberto Prada", "Chemical");
+        Assignment a1 = new Assignment("Alberto Prada", "Physics");
         Console.WriteLine(a1.GetSummary());
         Console.WriteLine();
 
