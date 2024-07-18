@@ -51,4 +51,9 @@ public class Video
     {
         return _comments;
     }
+
+    public int GetNumberOfComments()
+    {
+        return _comments.Count;
+    }
 }
